@@ -19,7 +19,6 @@
      "baseUrl": "./src",
      "paths": {
       "@shared/*": ["app/shared/*"],
-      "@introspection/*": ["app/@introspection/*"],
       "@core/*": ["app/core/*"],
       "~/*": ["app/*"]
      }
