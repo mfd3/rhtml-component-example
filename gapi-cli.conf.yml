@@ -1,0 +1,4 @@
+config:
+ schematics:
+  name: @rhtml/schematics
+  dryRun: false
