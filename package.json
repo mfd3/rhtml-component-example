@@ -4,6 +4,7 @@
     "build": "parcel build ./src/index.html --experimental-scope-hoisting"
   },
   "dependencies": {
+    "@abraham/reflection": "^0.7.0",
     "@rhtml/component": "0.0.72",
     "@rhtml/di": "0.0.72",
     "@rxdi/lit-html": "^0.7.92",

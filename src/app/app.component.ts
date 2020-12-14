@@ -8,8 +8,6 @@ import {
 
 import { html, LitElement } from "@rxdi/lit-html";
 
-import './counter.component';
-
 @Component([
   Settings({
     selector: "app-component",
